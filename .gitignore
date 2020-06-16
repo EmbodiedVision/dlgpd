@@ -1,0 +1,6 @@
+*.pyc
+/.idea
+/data
+/experiments
+pregenerated_data.tgz
+pretrained_models.tgz
